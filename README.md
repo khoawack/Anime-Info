@@ -15,3 +15,8 @@ This button displays the top 25 animes based on score (Highest - Lowest)
 
 This button displays the current season animes
 ![alt text](https://github.com/khoawack/Anime-Info/blob/main/ScreenShots/Test3.PNG)
+
+## Future Plans
+- Add anime to list and export capability
+- Make Gui Better
+- Add Pictures & Synopsis
