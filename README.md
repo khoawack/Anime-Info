@@ -7,3 +7,4 @@ pip install requests
 pip install PyAutoGui
 
 ## Screenshots
+![alt text](https://github.com/khoawack/Anime-Info/blob/main/ScreenShots/Test1.PNG)
