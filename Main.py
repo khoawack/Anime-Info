@@ -104,7 +104,7 @@ layout = [
 #------------------------------------------------------------------------------------------------
 
 
-window = sg.Window("Anime App", layout, size= (600,600))
+window = sg.Window("Anime App", layout, size= (800,800))
 
 while True:
     event, values = window.read()
