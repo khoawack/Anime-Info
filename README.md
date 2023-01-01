@@ -8,7 +8,7 @@ pip install PyAutoGui
 
 ## Screenshots
 This is the anime search feature
-![alt text] (https://github.com/khoawack/Anime-Info/blob/main/ScreenShots/Test2.PNG)
+![alt text](https://github.com/khoawack/Anime-Info/blob/main/ScreenShots/Test2.PNG)
 
 This button displays the top 25 animes based on score (Highest - Lowest)
 ![alt text](https://github.com/khoawack/Anime-Info/blob/main/ScreenShots/Test1.PNG)
